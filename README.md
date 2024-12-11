@@ -9,11 +9,13 @@ Provides feedback:
 "Too low!" if the guess is less than the number.
 Tracks the number of attempts made by the player.
 Displays a congratulatory message when the correct number is guessed.
+
 How to Play 🕹️
 Enter your guess in the input field.
 Click the "Submit" button or press Enter.
 Follow the feedback to adjust your guesses.
 Keep trying until you guess the correct number!
+
 Technology Stack 💻
 HTML: For the structure and layout of the game.
 CSS: For styling and enhancing the visual appearance.
