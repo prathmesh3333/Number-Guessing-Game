@@ -1,8 +1,9 @@
 # Number-Guessing-Game
-Number Guessing Game 🎯
+Number Guessing Game 🎯:
+
 This is a simple Number Guessing Game built using JavaScript, designed to challenge the player's ability to guess a randomly generated number between 1 and 100. The game provides feedback on each guess, helping the player narrow down their options until the correct number is found.
 
-Features 🚀
+Features 🚀:
 
 Randomly generates a number between 1 and 100.
 Provides feedback:
@@ -15,7 +16,7 @@ Tracks the number of attempts made by the player.
 
 Displays a congratulatory message when the correct number is guessed.
 
-How to Play 🕹️
+How to Play 🕹️:
 
 Enter your guess in the input field.
 
@@ -25,7 +26,7 @@ Follow the feedback to adjust your guesses.
 
 Keep trying until you guess the correct number!
 
-Technology Stack 💻
+Technology Stack 💻:
 
 HTML: For the structure and layout of the game.
 
